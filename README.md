@@ -121,7 +121,7 @@ My work includes business management systems, admin panels, authentication and r
 ### Other Web Projects
 
 - [Furas Makkah — Admin Panel](https://mis.furasmakkah.com)
-- [Chicago Pizza — Website](https://www.chicagospizza.pk)
+- [Chicago Pizza — Website](https://chicagopizzaw10.com)
 - [Lala Services — Admin Panel](https://panel.lalaservices.com)
 - [Trip Planner PK — Admin Panel](https://tripplannerpk.com)
 ---
