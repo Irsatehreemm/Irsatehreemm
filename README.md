@@ -119,11 +119,11 @@ My work includes business management systems, admin panels, authentication and r
 - Supported multi-domain administration, role-based access, AJAX dashboards and modals, and B2B client registration workflows
 
 ### Other Web Projects
-- Furas Makkah — Admin Panel
-- Chicago Pizza — Website
-- Lala Services — Admin Panel
-- Trip Planner PK — Admin Panel
 
+- [Furas Makkah — Admin Panel](https://mis.furasmakkah.com)
+- [Chicago Pizza — Website](https://www.chicagospizza.pk)
+- [Lala Services — Admin Panel](https://panel.lalaservices.com)
+- [Trip Planner PK — Admin Panel](https://tripplannerpk.com)
 ---
 
 ## 🎓 Education
